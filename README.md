@@ -47,3 +47,10 @@ There are already eight test images in the testing folder. To test additional im
 can be dropped inside ‘Testing Images Raw’ folder in the main folder and Face_extractor.ipynb 
 should be run. This would store the face images inside ‘Final Testing Images’ folder inside 
 Dataset. Then the Tester.ipynb can be run to output the result.
+
+
+# References
+
+- https://thinkingneuron.com/face-recognition-using-deep-learning-cnn-in-python/
+- https://towardsdatascience.com/extracting-faces-using-opencv-face-detection-neural-network-475c5cd0c260
+- https://towardsdatascience.com/real-time-face-recognition-an-end-to-end-project-b738bb0f7348
