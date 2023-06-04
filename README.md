@@ -1,4 +1,4 @@
-# Face-Recognition-Project
+# Facial-Authentication
 
 Face recognition is the task of identifying an already detected object as a known or unknown face.
 Here I have implemented a face recognition system using CNN model for face recognition and a
